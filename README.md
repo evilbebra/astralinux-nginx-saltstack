@@ -1,0 +1,1 @@
+# astralinux-nginx-saltstack
